@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "A slightly (very) beliguered UCL student mainly working on medical imagery and neural networks. . Technical CCR cave diver with a soft spot for scientific diving and photogrammetry. . I own way too many sets of dice and am the kind of person who grinds and weighs their own coffee, because it tastes better and volumetric measurements are for provincial towns on the frontiers of civilisation not a kitchen. .",
           "url": "https://lukemshepherd.github.io/tangential/about/",
           "relUrl": "/about/",
           "date": ""
